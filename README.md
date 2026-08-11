@@ -1,33 +1,64 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:212D2D,50:363F3A,100:66726B&height=220&section=header&text=Mohammed%20Samir&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Quality%20Assurance%20Engineer&descAlignY=60&descSize=20" width="100%"/>
+
+</div>
+
+<!-- ===================== PROFILE ===================== -->
+
+<div align="center">
+
+<img src="https://github.com/samir4296.png" width="150" height="150" style="border-radius:50%;" />
+
+<br>
 
 # 👋 Hi, I'm Mohammed Samir
 
-### Software Quality Assurance Engineer
+### 🧪 Software Quality Assurance Engineer
 
 **Manual Testing • API Testing • Test Automation • Bug Analysis**
 
-I break things before users do.  
-I focus on building reliable software through structured testing,
-clear defect reporting, and continuous quality improvement.
+<br>
+
+<a href="https://portfolio-mdsam.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-212D2D?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-samir-aba956381/">
+<img src="https://img.shields.io/badge/LinkedIn-363F3A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/samir4296">
+<img src="https://img.shields.io/badge/GitHub-66726B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🧪 About Me
+<!-- ===================== ABOUT ===================== -->
 
-I'm a Computer Science graduate with hands-on experience in
-**Software Quality Assurance and Testing**.
+## 👨‍💻 About Me
 
-My testing experience includes manual testing, functional testing,
-regression testing, API testing, test case design, bug reporting,
-and end-to-end test automation.
+I'm a **Software Quality Assurance Engineer** with hands-on experience in
+manual testing, API testing, test case design, bug reporting, regression
+testing, and test automation.
 
-I enjoy understanding how a system works, finding edge cases,
-identifying defects, and helping development teams deliver
-more reliable software.
+I enjoy breaking things before users do, finding edge cases, analyzing
+requirements, and helping development teams deliver reliable software.
+
+- 🧪 Focused on **Software Quality Assurance**
+- 🤖 Learning and practicing **Test Automation with Playwright**
+- 🔌 Experienced with **REST API Testing using Postman**
+- 🐞 Passionate about **Bug Analysis & Defect Reporting**
+- 🔄 Interested in **CI/CD and modern QA practices**
+- 📚 Continuously learning new testing technologies
 
 ---
+
+<!-- ===================== EXPERIENCE ===================== -->
 
 ## 💼 QA Experience
 
@@ -35,59 +66,92 @@ more reliable software.
 **Brainicon Technology**
 
 - Performed manual testing of web applications
-- Designed and executed detailed test cases
-- Performed functional, regression and end-to-end testing
-- Conducted API testing using Postman
-- Performed test automation using Playwright
+- Designed and executed test cases
+- Performed functional and regression testing
+- Conducted REST API testing using Postman
+- Performed E2E automation testing using Playwright
 - Identified, documented and tracked software defects
 - Performed bug retesting after fixes
 - Prepared test documentation and reports
-- Collaborated with development teams to improve software quality
+- Collaborated with development teams throughout the testing lifecycle
 
 ---
 
-## 🛠️ QA Skills
+<!-- ===================== QA SKILLS ===================== -->
 
-| Category | Skills |
-|---|---|
-| 🧪 Testing | Manual Testing, Functional Testing, Regression Testing |
-| 🔌 API | REST API Testing, Postman |
-| 🤖 Automation | Playwright, Selenium IDE |
-| 🐞 Defect Management | Bug Reporting, Retesting, Defect Analysis |
-| 📋 Test Management | Test Case Design, Test Execution, Test Documentation |
-| 🌐 Web Testing | UI Testing, Cross-Browser Testing, E2E Testing |
-| 🗄️ Database | MySQL, Basic Database Testing |
-| 🔧 Version Control | Git, GitHub |
-| 📊 Test Tools | Jira, TestRail |
-| 💻 Development | HTML, CSS, JavaScript, C++, C#, Python |
+## 🧪 QA & Testing Skills
 
----
+<div align="center">
 
-## 🚀 Automation & Testing
+<img src="https://img.shields.io/badge/Manual%20Testing-212D2D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Functional%20Testing-363F3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regression%20Testing-66726B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Testing-40423B?style=for-the-badge"/>
 
-### Playwright
+<br>
 
-- End-to-End Testing
-- UI Automation
-- Regression Automation
-- Web Application Testing
-- Stable Locator Strategies
-- Assertions & Test Validation
-- Playwright MCP
-- HTML Test Reports
+<img src="https://img.shields.io/badge/Test%20Case%20Design-212D2D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bug%20Reporting-363F3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/E2E%20Testing-66726B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%20Testing-40423B?style=for-the-badge"/>
 
-### API Testing
+<br>
 
-- REST API Testing
-- GET / POST / PUT / DELETE
-- Request & Response Validation
-- Status Code Validation
-- JSON Response Validation
-- Postman Collections
+<img src="https://img.shields.io/badge/Test%20Automation-212D2D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-363F3A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Defect%20Analysis-66726B?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 📌 Testing Practices
+<!-- ===================== TOOLS ===================== -->
+
+## 🛠️ Tools & Technologies
+
+### Testing Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Playwright-212D2D?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-363F3A?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium%20IDE-66726B?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-40423B?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestRail-212D2D?style=for-the-badge"/>
+
+</div>
+
+### Development & Version Control
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-212D2D?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-363F3A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-66726B?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-40423B?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+### Programming
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%2B%2B-212D2D?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-363F3A?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-66726B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-40423B?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-212D2D?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-363F3A?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- ===================== TESTING FLOW ===================== -->
+
+## 🔄 My Testing Approach
+
+<div align="center">
 
 ```text
 Requirement Analysis
