@@ -1,74 +1,109 @@
-# Hi, I'm Mohammed Samir 👋
+<div align="center">
+
+# 👋 Hi, I'm Mohammed Samir
 
 ### Software Quality Assurance Engineer
 
-I'm passionate about Software Quality Assurance, Manual Testing, API Testing, and Test Automation. I enjoy finding defects, improving software quality, and learning modern testing practices.
+**Manual Testing • API Testing • Test Automation • Bug Analysis**
+
+I break things before users do.  
+I focus on building reliable software through structured testing,
+clear defect reporting, and continuous quality improvement.
+
+</div>
 
 ---
 
-## 🧪 QA Skills
+## 🧪 About Me
 
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- API Testing
-- Test Case Design
-- Bug Reporting
-- End-to-End Testing
-- Automation Testing
-- Playwright
-- Postman
-- Selenium IDE
-- Jira
-- TestRail
-- Git & GitHub
-- MySQL
+I'm a Computer Science graduate with hands-on experience in
+**Software Quality Assurance and Testing**.
+
+My testing experience includes manual testing, functional testing,
+regression testing, API testing, test case design, bug reporting,
+and end-to-end test automation.
+
+I enjoy understanding how a system works, finding edge cases,
+identifying defects, and helping development teams deliver
+more reliable software.
 
 ---
 
-## 💼 Experience
+## 💼 QA Experience
 
 ### Software Quality Assurance & Testing Intern
 **Brainicon Technology**
 
-- Manual testing of web applications
-- Test case design and execution
-- Functional and regression testing
-- API testing using Postman
-- Automation testing using Playwright
-- End-to-end testing
-- Bug reporting and retesting
-- Collaboration with development teams
+- Performed manual testing of web applications
+- Designed and executed detailed test cases
+- Performed functional, regression and end-to-end testing
+- Conducted API testing using Postman
+- Performed test automation using Playwright
+- Identified, documented and tracked software defects
+- Performed bug retesting after fixes
+- Prepared test documentation and reports
+- Collaborated with development teams to improve software quality
 
 ---
 
-## 🚀 Projects
+## 🛠️ QA Skills
 
-### QA Automation Projects
-- Playwright-based web automation
-- End-to-end testing
-- Regression testing
-- Test case development
-
-### Fish Stock Management System
-A web-based system developed as an academic project.
-
-### Cafe Management System
-A C++ based academic project.
-
-### Underwater Ocean Life Animation
-A graphics project developed using C++ and OpenGL.
+| Category | Skills |
+|---|---|
+| 🧪 Testing | Manual Testing, Functional Testing, Regression Testing |
+| 🔌 API | REST API Testing, Postman |
+| 🤖 Automation | Playwright, Selenium IDE |
+| 🐞 Defect Management | Bug Reporting, Retesting, Defect Analysis |
+| 📋 Test Management | Test Case Design, Test Execution, Test Documentation |
+| 🌐 Web Testing | UI Testing, Cross-Browser Testing, E2E Testing |
+| 🗄️ Database | MySQL, Basic Database Testing |
+| 🔧 Version Control | Git, GitHub |
+| 📊 Test Tools | Jira, TestRail |
+| 💻 Development | HTML, CSS, JavaScript, C++, C#, Python |
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Automation & Testing
 
-**Portfolio:**  
-https://portfolio-mdsam.netlify.app/
+### Playwright
 
-**LinkedIn:**  
-https://www.linkedin.com/in/mohammed-samir-aba956381/
+- End-to-End Testing
+- UI Automation
+- Regression Automation
+- Web Application Testing
+- Stable Locator Strategies
+- Assertions & Test Validation
+- Playwright MCP
+- HTML Test Reports
+
+### API Testing
+
+- REST API Testing
+- GET / POST / PUT / DELETE
+- Request & Response Validation
+- Status Code Validation
+- JSON Response Validation
+- Postman Collections
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📌 Testing Practices
+
+```text
+Requirement Analysis
+        ↓
+Test Scenario Design
+        ↓
+Test Case Development
+        ↓
+Test Execution
+        ↓
+Defect Identification
+        ↓
+Bug Reporting
+        ↓
+Bug Retesting
+        ↓
+Regression Testing
+        ↓
+Release Validation
